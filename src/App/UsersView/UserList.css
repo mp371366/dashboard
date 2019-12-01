@@ -1,0 +1,25 @@
+.UserList {
+  text-align: center;
+}
+
+.UserList-table {
+  border: 1px solid rgb(222, 226, 230);
+}
+
+.UserList-table-head {
+  background-color: #f6f6f6;
+  border: 0;
+}
+
+.UserList-table-body > tr > td {
+  vertical-align: middle;
+}
+
+.UserList-sortable {
+  cursor: pointer;
+}
+
+.UserList-button {
+  width: 100px;
+  border: 0px solid;
+}

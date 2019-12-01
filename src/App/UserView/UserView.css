@@ -1,0 +1,25 @@
+.UserView-card {
+  width: 100%;
+}
+
+.UserView-card-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.UserView-card-body {
+  margin: 5px;
+}
+
+.UserView-label {
+  text-align: right;
+}
+
+.UserView-form-footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.UserView-form-footer-button {
+  margin: 5px;
+}

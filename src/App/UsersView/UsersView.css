@@ -1,0 +1,12 @@
+.UsersView-card {
+  width: 100%;
+}
+
+.UsersView-card-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.UsersView-card-body {
+  margin: 5px;
+}
